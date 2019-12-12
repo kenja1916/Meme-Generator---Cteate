@@ -1,4 +1,4 @@
-# Meme-Generator - Cteate
+# Meme-Generator - Create
 ## Support
 
 The image resources are all provided by imgflip api service. The docs tell that "Requests to the API may be rate-limited if you make a lot of requests.", which means the service may be unavailable or limited somehow.
